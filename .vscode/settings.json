@@ -1,0 +1,14 @@
+{
+    "files.eol": "\n",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "cSpell.words": [
+        "Chakra",
+        "brews",
+        "wayback"
+    ]
+}
